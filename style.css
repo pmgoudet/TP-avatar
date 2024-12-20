@@ -1,0 +1,45 @@
+.container {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.avatar-container {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    padding: 10px;
+}
+
+.btn-arrow {
+    cursor: pointer;
+}
+
+.box { 
+    height: 50px;
+    width: 50px;
+    cursor: pointer;
+}
+
+.couleurs {
+    display: flex;
+    justify-content: space-between;
+}
+
+.blond {
+    background-color: #ffb434;
+}
+
+.black {
+    background-color: #403c3c;
+}
+
+.turquoise {
+    background-color: #08a49c;
+}
+
+.hair {
+    position: absolute;
+    left: 115px;
+    top: 17px;
+}
